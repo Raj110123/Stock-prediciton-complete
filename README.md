@@ -1,4 +1,4 @@
-# Stock-prediction-final
+
 # 📈 Stock Prediction Portal
 
 A full-stack web application for predicting stock prices using deep learning. This project leverages LSTM (Long Short-Term Memory) neural networks to forecast stock market trends and provides an intuitive user interface for visualizing predictions and analysis.
